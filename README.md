@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" width=100% src="./dedsec.png"> 
+  <img align="center" width=100% src="https://images.app.goo.gl/JxxvmgAcEdHbPpyr9"> 
 </h1>
 
 
