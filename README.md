@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="./dedsec.jpg"> 
+  <img align="center" width=100% src="./dedsec.jpg"> 
 </h1>
 
 
