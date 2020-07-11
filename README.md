@@ -1,4 +1,4 @@
-### Hi there 👋
+![logo](./dedsec.png)
 
 <!--
 **user3301/user3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
