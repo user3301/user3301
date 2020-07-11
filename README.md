@@ -1,4 +1,7 @@
-![logo](./dedsec.png)
+<h1 align="center">
+  <img align="center" width="64" src="./dedsec.png"> 
+</h1>
+
 
 <!--
 **user3301/user3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
