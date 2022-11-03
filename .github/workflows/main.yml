@@ -1,9 +1,9 @@
 name: WakaTime status update
 
-on:
-  schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "1 0 * * *"
+on: [push]
+#   schedule:
+#     # Runs at 12 am  '0 0 * * *'  UTC
+#     - cron: "1 0 * * *"
 
 jobs:
   update-readme:
@@ -24,4 +24,4 @@ jobs:
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
-          STATS_RANGE: "last_14_days"
+          STATS_RANGE: "last__days"
