@@ -6,6 +6,33 @@ Fetch a random photo from Flickr and update README.md
 import os
 import random
 import requests
+import re
+from html.parser import HTMLParser
+
+
+class HTMLStripper(HTMLParser):
+    """Helper class to strip HTML tags"""
+    def __init__(self):
+        super().__init__()
+        self.reset()
+        self.strict = False
+        self.convert_charrefs = True
+        self.text = []
+
+    def handle_data(self, data):
+        self.text.append(data)
+
+    def get_data(self):
+        return ''.join(self.text)
+
+
+def strip_html_tags(html):
+    """Remove HTML tags from string"""
+    if not html:
+        return ""
+    stripper = HTMLStripper()
+    stripper.feed(html)
+    return stripper.get_data().strip()
 
 
 def fetch_flickr_photos(user_id):
@@ -36,11 +63,20 @@ def get_random_photo(photos):
         # Convert to large size
         image_url = image_url.replace("_m.jpg", "_b.jpg")
 
+    # Extract description and clean HTML tags
+    description_html = photo.get("description", "")
+    description = strip_html_tags(description_html)
+
+    # If description is too long, truncate it
+    if len(description) > 500:
+        description = description[:497] + "..."
+
     return {
         "url": image_url,
         "title": photo.get("title", "Flickr Photo"),
         "link": photo.get("link", ""),
         "published": photo.get("published", ""),
+        "description": description,
     }
 
 
@@ -56,6 +92,10 @@ def update_readme(photo_info):
         return False
 
     # Create the new photo section
+    description_section = ""
+    if photo_info.get("description"):
+        description_section = f'\n> {photo_info["description"]}\n'
+
     photo_section = f"""# I am user3301
 
 ![](https://github.com/user3301/user3301/blob/master/assets/header.png)
@@ -64,7 +104,9 @@ def update_readme(photo_info):
 
 [![{photo_info["title"]}]({photo_info["url"]})]({photo_info["link"]})
 
-*[{photo_info["title"]}]({photo_info["link"]}) - Click to view on Flickr*
+**[{photo_info["title"]}]({photo_info["link"]})**
+{description_section}
+*Click the photo to view on Flickr*
 
 ---
 
@@ -81,6 +123,8 @@ def update_readme(photo_info):
 
     print(f"✅ README updated with: {photo_info['title']}")
     print(f"   Image URL: {photo_info['url']}")
+    if photo_info.get('description'):
+        print(f"   Description: {photo_info['description'][:100]}...")
     return True
 
 
