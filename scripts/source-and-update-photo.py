@@ -12,6 +12,7 @@ from html.parser import HTMLParser
 
 class HTMLStripper(HTMLParser):
     """Helper class to strip HTML tags"""
+
     def __init__(self):
         super().__init__()
         self.reset()
@@ -23,7 +24,7 @@ class HTMLStripper(HTMLParser):
         self.text.append(data)
 
     def get_data(self):
-        return ''.join(self.text)
+        return "".join(self.text)
 
 
 def strip_html_tags(html):
@@ -68,7 +69,7 @@ def get_random_photo(photos):
     description = strip_html_tags(description_html)
 
     # Remove "X posted a photo:" prefix that Flickr adds
-    description = re.sub(r'^.+?\s+posted a photo:\s*', '', description)
+    description = re.sub(r"^.+?\s+posted a photo:\s*", "", description)
 
     # If description is too long, truncate it
     if len(description) > 500:
@@ -97,13 +98,13 @@ def update_readme(photo_info):
     # Create the new photo section
     description_section = ""
     if photo_info.get("description"):
-        description_section = f'\n> {photo_info["description"]}\n'
+        description_section = f"\n> {photo_info['description']}\n"
 
     photo_section = f"""# I am user3301
 
-![](https://github.com/user3301/user3301/blob/master/assets/header.png)
+## 📸 A daily shuffle from my lens to your screen
 
-## 📸 My Photo of the Day
+![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
 [![{photo_info["title"]}]({photo_info["url"]})]({photo_info["link"]})
 
@@ -126,7 +127,7 @@ def update_readme(photo_info):
 
     print(f"✅ README updated with: {photo_info['title']}")
     print(f"   Image URL: {photo_info['url']}")
-    if photo_info.get('description'):
+    if photo_info.get("description"):
         print(f"   Description: {photo_info['description'][:100]}...")
     return True
 
