@@ -67,6 +67,9 @@ def get_random_photo(photos):
     description_html = photo.get("description", "")
     description = strip_html_tags(description_html)
 
+    # Remove "X posted a photo:" prefix that Flickr adds
+    description = re.sub(r'^.+?\s+posted a photo:\s*', '', description)
+
     # If description is too long, truncate it
     if len(description) > 500:
         description = description[:497] + "..."

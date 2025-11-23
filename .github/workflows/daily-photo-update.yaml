@@ -1,4 +1,4 @@
-name: Update README with Random Flickr Photo
+name: Update README with Random Photo I Took
 
 on:
   schedule:
@@ -25,8 +25,8 @@ jobs:
         run: |
           pip install requests
 
-      - name: Fetch random Flickr photo and update README
-        run: python scripts/update_flickr_photo.py
+      - name: Fetch random photo and update README
+        run: python scripts/source-and-update-photo.py
         env:
           FLICKR_USER_ID: ${{ secrets.FLICKR_USER_ID }}
 
@@ -35,4 +35,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with random Flickr photo" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with random photo" && git push)
