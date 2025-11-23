@@ -110,7 +110,6 @@ def update_readme(photo_info):
 
 **[{photo_info["title"]}]({photo_info["link"]})**
 {description_section}
-*Click the photo to view on Flickr*
 
 ---
 
