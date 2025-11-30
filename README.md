@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Erawan Museum](https://live.staticflickr.com/65535/54943749673_e36f610c19_b.jpg)](https://www.flickr.com/photos/69096949@N08/54943749673/)
+[![Tasik Cermin 1](https://live.staticflickr.com/65535/54941552334_2c801c1024_b.jpg)](https://www.flickr.com/photos/69096949@N08/54941552334/)
 
-**[Erawan Museum](https://www.flickr.com/photos/69096949@N08/54943749673/)**
+**[Tasik Cermin 1](https://www.flickr.com/photos/69096949@N08/54941552334/)**
 
-> The "3 headed elephant" in Bangkok
+> Tasik Cermin 1 at Ipoh Malaysia
 
 
 ---
