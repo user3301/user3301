@@ -102,7 +102,7 @@ def update_readme(photo_info):
 
     photo_section = f"""# I am user3301
 
-## 📸 A daily shuffle from my lens to your screen
+## 📸 ᴬ ᵈᵃⁱˡʸ ˢʰᵘᶠᶠˡᵉ ᶠʳᵒᵐ ᵐʸ ˡᵉⁿˢ ᵗᵒ ʸᵒᵘʳ ˢᶜʳᵉᵉⁿ
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
