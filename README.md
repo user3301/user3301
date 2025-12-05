@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Red Songthaew](https://live.staticflickr.com/65535/54941485284_9394e6889d_b.jpg)](https://www.flickr.com/photos/69096949@N08/54941485284/)
+[![Wat Chedi Luang](https://live.staticflickr.com/65535/54947609626_333f3297c2_b.jpg)](https://www.flickr.com/photos/69096949@N08/54947609626/)
 
-**[Red Songthaew](https://www.flickr.com/photos/69096949@N08/54941485284/)**
+**[Wat Chedi Luang](https://www.flickr.com/photos/69096949@N08/54947609626/)**
 
-> A random guy is bargaining with a songthaew driver in Chiang Mai, Thailand.
+> Buddhist Temple in Chiang Mai, Thailand
 
 
 ---
