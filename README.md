@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Wat Chedi Luang](https://live.staticflickr.com/65535/54947609626_333f3297c2_b.jpg)](https://www.flickr.com/photos/69096949@N08/54947609626/)
+[![Candi bentar](https://live.staticflickr.com/65535/54966316259_2bf479101a_b.jpg)](https://www.flickr.com/photos/69096949@N08/54966316259/)
 
-**[Wat Chedi Luang](https://www.flickr.com/photos/69096949@N08/54947609626/)**
+**[Candi bentar](https://www.flickr.com/photos/69096949@N08/54966316259/)**
 
-> Buddhist Temple in Chiang Mai, Thailand
+> Candi benta - spilt gateway of Kuta beach entrance at Bali
 
 
 ---
