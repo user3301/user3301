@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Little Hanoi](https://live.staticflickr.com/65535/54968914397_d076eb5dec_b.jpg)](https://www.flickr.com/photos/69096949@N08/54968914397/)
+[![Kellie's Castle](https://live.staticflickr.com/65535/54941598665_7cc14da66a_b.jpg)](https://www.flickr.com/photos/69096949@N08/54941598665/)
 
-**[Little Hanoi](https://www.flickr.com/photos/69096949@N08/54968914397/)**
+**[Kellie's Castle](https://www.flickr.com/photos/69096949@N08/54941598665/)**
 
-> Vietnamese egg coffee shop in Ho Chi Minh City
+> Kellie's Castle in Malaysia
 
 
 ---
