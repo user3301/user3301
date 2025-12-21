@@ -51,11 +51,12 @@ def fetch_flickr_photos(user_id):
 
 
 def fetch_specific_flickr_photo(user_id, photo_id):
-    """Fetch a specific photo from Flickr using oEmbed API"""
+    """Fetch a specific photo from Flickr using oEmbed API and scraping"""
     photo_url = f"https://www.flickr.com/photos/{user_id}/{photo_id}"
     oembed_url = f"https://www.flickr.com/services/oembed/?format=json&url={photo_url}"
 
     try:
+        # Get image URL and title from oEmbed
         response = requests.get(oembed_url, timeout=10)
         response.raise_for_status()
         data = response.json()
@@ -66,11 +67,32 @@ def fetch_specific_flickr_photo(user_id, photo_id):
             # Try to get the large version
             image_url = image_url.replace("_b.jpg", "_b.jpg")  # Already in large format
 
+        # Fetch the photo page to get description
+        description = ""
+        try:
+            page_response = requests.get(photo_url, timeout=10)
+            page_response.raise_for_status()
+            page_html = page_response.text
+
+            # Try to extract description from meta tag
+            desc_match = re.search(
+                r'<meta name="description" content="([^"]*)"', page_html
+            )
+            if desc_match:
+                description = desc_match.group(1)
+                # Clean up the description
+                description = strip_html_tags(description)
+                # If description is too long, truncate it
+                if len(description) > 500:
+                    description = description[:497] + "..."
+        except Exception as e:
+            print(f"Warning: Could not fetch description: {e}")
+
         return {
             "url": image_url,
             "title": data.get("title", "Flickr Photo"),
             "link": photo_url,
-            "description": "",  # oEmbed doesn't provide description
+            "description": description,
             "author_name": data.get("author_name", ""),
         }
     except Exception as e:
