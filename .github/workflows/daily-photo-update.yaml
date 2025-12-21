@@ -5,6 +5,11 @@ on:
     # Runs daily at 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # Allows manual trigger from Actions tab
+    inputs:
+      flickr_image_id:
+        description: 'Flickr Image ID (optional - leave empty for random)'
+        required: false
+        type: string
 
 jobs:
   update-readme:
@@ -29,6 +34,7 @@ jobs:
         run: python scripts/source-and-update-photo.py
         env:
           FLICKR_USER_ID: ${{ secrets.FLICKR_USER_ID }}
+          FLICKR_IMAGE_ID: ${{ inputs.flickr_image_id }}
 
       - name: Commit and push if changed
         run: |

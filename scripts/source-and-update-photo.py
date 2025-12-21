@@ -50,6 +50,34 @@ def fetch_flickr_photos(user_id):
         return []
 
 
+def fetch_specific_flickr_photo(user_id, photo_id):
+    """Fetch a specific photo from Flickr using oEmbed API"""
+    photo_url = f"https://www.flickr.com/photos/{user_id}/{photo_id}"
+    oembed_url = f"https://www.flickr.com/services/oembed/?format=json&url={photo_url}"
+
+    try:
+        response = requests.get(oembed_url, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+
+        # Extract image URL and convert to large size
+        image_url = data.get("url", "")
+        if image_url:
+            # Try to get the large version
+            image_url = image_url.replace("_b.jpg", "_b.jpg")  # Already in large format
+
+        return {
+            "url": image_url,
+            "title": data.get("title", "Flickr Photo"),
+            "link": photo_url,
+            "description": "",  # oEmbed doesn't provide description
+            "author_name": data.get("author_name", ""),
+        }
+    except Exception as e:
+        print(f"Error fetching specific Flickr photo: {e}")
+        return None
+
+
 def get_random_photo(photos):
     """Select a random photo from the list"""
     if not photos:
@@ -137,20 +165,34 @@ def main():
         print("Error: FLICKR_USER_ID environment variable not set")
         return
 
-    print(f"Fetching photos for user: {user_id}")
-    photos = fetch_flickr_photos(user_id)
+    # Check if a specific image ID is provided
+    image_id = os.environ.get("FLICKR_IMAGE_ID")
 
-    if not photos:
-        print("No photos found or error occurred")
-        return
+    if image_id:
+        # Fetch specific photo
+        print(f"Fetching specific photo: {image_id}")
+        photo_info = fetch_specific_flickr_photo(user_id, image_id)
 
-    print(f"Found {len(photos)} photos")
-    photo_info = get_random_photo(photos)
-
-    if photo_info and photo_info["url"]:
-        update_readme(photo_info)
+        if photo_info and photo_info["url"]:
+            update_readme(photo_info)
+        else:
+            print("Could not fetch the specified photo")
     else:
-        print("Could not select a random photo")
+        # Fetch random photo from feed
+        print(f"Fetching photos for user: {user_id}")
+        photos = fetch_flickr_photos(user_id)
+
+        if not photos:
+            print("No photos found or error occurred")
+            return
+
+        print(f"Found {len(photos)} photos")
+        photo_info = get_random_photo(photos)
+
+        if photo_info and photo_info["url"]:
+            update_readme(photo_info)
+        else:
+            print("Could not select a random photo")
 
 
 if __name__ == "__main__":
