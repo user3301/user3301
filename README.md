@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![วัดปากน้ำภาษีเจริญ](https://live.staticflickr.com/65535/54991843895_124ae0bf1b_b.jpg)](https://www.flickr.com/photos/69096949@N08/54991843895/)
+[![Tanah Lot](https://live.staticflickr.com/65535/54985377441_ee05be2f36_b.jpg)](https://www.flickr.com/photos/69096949@N08/54985377441/)
 
-**[วัดปากน้ำภาษีเจริญ](https://www.flickr.com/photos/69096949@N08/54991843895/)**
+**[Tanah Lot](https://www.flickr.com/photos/69096949@N08/54985377441/)**
 
-> Wat Paknam Bhasicharoen in Bangkok
+> Traditional Balinese temple located on a small rocky island
 
 
 ---
