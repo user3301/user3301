@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Great Ocean Road](https://live.staticflickr.com/65535/54996186306_9edc49d4fa_b.jpg)](https://www.flickr.com/photos/69096949@N08/54996186306/)
+[![Sir Veeramakaliamman Temple](https://live.staticflickr.com/65535/54974464712_d900447190_b.jpg)](https://www.flickr.com/photos/69096949@N08/54974464712)
 
-**[Great Ocean Road](https://www.flickr.com/photos/69096949@N08/54996186306/)**
+**[Sir Veeramakaliamman Temple](https://www.flickr.com/photos/69096949@N08/54974464712)**
 
-> Great Ocean Road - most iconic drive in Australia
+> Hindu temple at little India Singapore
 
 
 ---
