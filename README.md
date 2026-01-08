@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Candi bentar](https://live.staticflickr.com/65535/54966316259_2bf479101a_b.jpg)](https://www.flickr.com/photos/69096949@N08/54966316259/)
+[![Traditional Chinese building](https://live.staticflickr.com/65535/54943638855_6041db82d2_b.jpg)](https://www.flickr.com/photos/69096949@N08/54943638855/)
 
-**[Candi bentar](https://www.flickr.com/photos/69096949@N08/54966316259/)**
+**[Traditional Chinese building](https://www.flickr.com/photos/69096949@N08/54943638855/)**
 
-> Candi benta - spilt gateway of Kuta beach entrance at Bali
+> Traditional Chinese building in my home city Shenyang
 
 
 ---
