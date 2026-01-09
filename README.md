@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Traditional Chinese building](https://live.staticflickr.com/65535/54943638855_6041db82d2_b.jpg)](https://www.flickr.com/photos/69096949@N08/54943638855/)
+[![Street Food Stall](https://live.staticflickr.com/65535/55026801413_54bf249eca_b.jpg)](https://www.flickr.com/photos/69096949@N08/55026801413/)
 
-**[Traditional Chinese building](https://www.flickr.com/photos/69096949@N08/54943638855/)**
+**[Street Food Stall](https://www.flickr.com/photos/69096949@N08/55026801413/)**
 
-> Traditional Chinese building in my home city Shenyang
+> Vibrant street food stall located in Zhongshan Road in Xiamen, China
 
 
 ---
