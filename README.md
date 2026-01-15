@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Possums](https://live.staticflickr.com/65535/55026807978_c4c402f05b_b.jpg)](https://www.flickr.com/photos/69096949@N08/55026807978/)
+[![Erawan Museum](https://live.staticflickr.com/65535/54943749673_e36f610c19_b.jpg)](https://www.flickr.com/photos/69096949@N08/54943749673/)
 
-**[Possums](https://www.flickr.com/photos/69096949@N08/55026807978/)**
+**[Erawan Museum](https://www.flickr.com/photos/69096949@N08/54943749673/)**
 
-> Ringtail possum with her baby in my backyard
+> The "3 headed elephant" in Bangkok
 
 
 ---
