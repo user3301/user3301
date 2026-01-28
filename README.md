@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Possums](https://live.staticflickr.com/65535/55026807978_c4c402f05b_b.jpg)](https://www.flickr.com/photos/69096949@N08/55026807978/)
+[![Gaming Controllers](https://live.staticflickr.com/65535/54944625512_844a039179_b.jpg)](https://www.flickr.com/photos/69096949@N08/54944625512/)
 
-**[Possums](https://www.flickr.com/photos/69096949@N08/55026807978/)**
+**[Gaming Controllers](https://www.flickr.com/photos/69096949@N08/54944625512/)**
 
-> Ringtail possum with her baby in my backyard
+> Beautiful gaming controllers at PAX show 2024
 
 
 ---
