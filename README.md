@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Candi bentar](https://live.staticflickr.com/65535/54966316259_2bf479101a_b.jpg)](https://www.flickr.com/photos/69096949@N08/54966316259/)
+[![Kellie's Castle](https://live.staticflickr.com/65535/54941598665_7cc14da66a_b.jpg)](https://www.flickr.com/photos/69096949@N08/54941598665/)
 
-**[Candi bentar](https://www.flickr.com/photos/69096949@N08/54966316259/)**
+**[Kellie's Castle](https://www.flickr.com/photos/69096949@N08/54941598665/)**
 
-> Candi benta - spilt gateway of Kuta beach entrance at Bali
+> Kellie's Castle in Malaysia
 
 
 ---
