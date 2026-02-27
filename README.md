@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Erawan Museum](https://live.staticflickr.com/65535/54943749673_e36f610c19_b.jpg)](https://www.flickr.com/photos/69096949@N08/54943749673/)
+[![Little Hanoi](https://live.staticflickr.com/65535/54968914397_d076eb5dec_b.jpg)](https://www.flickr.com/photos/69096949@N08/54968914397/)
 
-**[Erawan Museum](https://www.flickr.com/photos/69096949@N08/54943749673/)**
+**[Little Hanoi](https://www.flickr.com/photos/69096949@N08/54968914397/)**
 
-> The "3 headed elephant" in Bangkok
+> Vietnamese egg coffee shop in Ho Chi Minh City
 
 
 ---
