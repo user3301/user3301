@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Tanah Lot](https://live.staticflickr.com/65535/54985377441_ee05be2f36_b.jpg)](https://www.flickr.com/photos/69096949@N08/54985377441/)
+[![The Coffee Apartment](https://live.staticflickr.com/65535/54966257118_68bfd560c2_b.jpg)](https://www.flickr.com/photos/69096949@N08/54966257118/)
 
-**[Tanah Lot](https://www.flickr.com/photos/69096949@N08/54985377441/)**
+**[The Coffee Apartment](https://www.flickr.com/photos/69096949@N08/54966257118/)**
 
-> Traditional Balinese temple located on a small rocky island
+> The coffee apartment in Ho Chi Minh City, Vietnam
 
 
 ---
