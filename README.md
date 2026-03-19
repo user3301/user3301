@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Sir Veeramakaliamman Temple](https://live.staticflickr.com/65535/54974464712_d900447190_b.jpg)](https://www.flickr.com/photos/69096949@N08/54974464712)
+[![Banten](https://live.staticflickr.com/65535/54959443684_04104845a6_b.jpg)](https://www.flickr.com/photos/69096949@N08/54959443684/)
 
-**[Sir Veeramakaliamman Temple](https://www.flickr.com/photos/69096949@N08/54974464712)**
+**[Banten](https://www.flickr.com/photos/69096949@N08/54959443684/)**
 
-> Hindu temple at little India Singapore
+> Balinese offerings on a rock at Goa Gajah, Bali
 
 
 ---
