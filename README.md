@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Sir Veeramakaliamman Temple](https://live.staticflickr.com/65535/54974464712_d900447190_b.jpg)](https://www.flickr.com/photos/69096949@N08/54974464712/)
+[![Little Hanoi](https://live.staticflickr.com/65535/54968914397_d076eb5dec_b.jpg)](https://www.flickr.com/photos/69096949@N08/54968914397/)
 
-**[Sir Veeramakaliamman Temple](https://www.flickr.com/photos/69096949@N08/54974464712/)**
+**[Little Hanoi](https://www.flickr.com/photos/69096949@N08/54968914397/)**
 
-> Hindu temple at little India Singapore
+> Vietnamese egg coffee shop in Ho Chi Minh City
 
 
 ---
