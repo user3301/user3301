@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Street Food Stall](https://live.staticflickr.com/65535/55026801413_54bf249eca_b.jpg)](https://www.flickr.com/photos/69096949@N08/55026801413/)
+[![Erawan Museum](https://live.staticflickr.com/65535/54943749673_e36f610c19_b.jpg)](https://www.flickr.com/photos/69096949@N08/54943749673/)
 
-**[Street Food Stall](https://www.flickr.com/photos/69096949@N08/55026801413/)**
+**[Erawan Museum](https://www.flickr.com/photos/69096949@N08/54943749673/)**
 
-> Vibrant street food stall located in Zhongshan Road in Xiamen, China
+> The "3 headed elephant" in Bangkok
 
 
 ---
