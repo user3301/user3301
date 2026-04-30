@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Tanah Lot](https://live.staticflickr.com/65535/54985377441_ee05be2f36_b.jpg)](https://www.flickr.com/photos/69096949@N08/54985377441/)
+[![Banten](https://live.staticflickr.com/65535/54959443684_04104845a6_b.jpg)](https://www.flickr.com/photos/69096949@N08/54959443684/)
 
-**[Tanah Lot](https://www.flickr.com/photos/69096949@N08/54985377441/)**
+**[Banten](https://www.flickr.com/photos/69096949@N08/54959443684/)**
 
-> Traditional Balinese temple located on a small rocky island
+> Balinese offerings on a rock at Goa Gajah, Bali
 
 
 ---
