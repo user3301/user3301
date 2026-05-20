@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Little Hanoi](https://live.staticflickr.com/65535/54968914397_d076eb5dec_b.jpg)](https://www.flickr.com/photos/69096949@N08/54968914397/)
+[![Sun Moon Lake](https://live.staticflickr.com/65535/54945808460_bb0d592b5a_b.jpg)](https://www.flickr.com/photos/69096949@N08/54945808460/)
 
-**[Little Hanoi](https://www.flickr.com/photos/69096949@N08/54968914397/)**
+**[Sun Moon Lake](https://www.flickr.com/photos/69096949@N08/54945808460/)**
 
-> Vietnamese egg coffee shop in Ho Chi Minh City
+> Sun Moon Lake '日月潭' in Taichung
 
 
 ---
