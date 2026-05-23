@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Candi bentar](https://live.staticflickr.com/65535/54966316259_2bf479101a_b.jpg)](https://www.flickr.com/photos/69096949@N08/54966316259/)
+[![Mount Fuji](https://live.staticflickr.com/65535/55287918973_40ed671aac_b.jpg)](https://www.flickr.com/photos/69096949@N08/55287918973)
 
-**[Candi bentar](https://www.flickr.com/photos/69096949@N08/54966316259/)**
+**[Mount Fuji](https://www.flickr.com/photos/69096949@N08/55287918973)**
 
-> Candi benta - spilt gateway of Kuta beach entrance at Bali
+> Lake Kawaguchi Mount Fuji viewpoint
 
 
 ---
