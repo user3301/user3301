@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Little Hanoi](https://live.staticflickr.com/65535/54968914397_d076eb5dec_b.jpg)](https://www.flickr.com/photos/69096949@N08/54968914397/)
+[![花見小路通](https://live.staticflickr.com/65535/55289788904_9cff345785_b.jpg)](https://www.flickr.com/photos/69096949@N08/55289788904)
 
-**[Little Hanoi](https://www.flickr.com/photos/69096949@N08/54968914397/)**
+**[花見小路通](https://www.flickr.com/photos/69096949@N08/55289788904)**
 
-> Vietnamese egg coffee shop in Ho Chi Minh City
+> 京都市の南北の通りの一つ
 
 
 ---
