@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Sir Veeramakaliamman Temple](https://live.staticflickr.com/65535/54974464712_d900447190_b.jpg)](https://www.flickr.com/photos/69096949@N08/54974464712/)
+[![花見小路通](https://live.staticflickr.com/65535/55289788904_9cff345785_b.jpg)](https://www.flickr.com/photos/69096949@N08/55289788904/)
 
-**[Sir Veeramakaliamman Temple](https://www.flickr.com/photos/69096949@N08/54974464712/)**
+**[花見小路通](https://www.flickr.com/photos/69096949@N08/55289788904/)**
 
-> Hindu temple at little India Singapore
+> 京都市の南北の通りの一つ
 
 
 ---
