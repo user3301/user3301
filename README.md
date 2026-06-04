@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![花見小路通](https://live.staticflickr.com/65535/55289788904_9cff345785_b.jpg)](https://www.flickr.com/photos/69096949@N08/55289788904/)
+[![Tanah Lot](https://live.staticflickr.com/65535/54985377441_ee05be2f36_b.jpg)](https://www.flickr.com/photos/69096949@N08/54985377441/)
 
-**[花見小路通](https://www.flickr.com/photos/69096949@N08/55289788904/)**
+**[Tanah Lot](https://www.flickr.com/photos/69096949@N08/54985377441/)**
 
-> 京都市の南北の通りの一つ
+> Traditional Balinese temple located on a small rocky island
 
 
 ---
