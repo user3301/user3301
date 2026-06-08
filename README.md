@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Possums](https://live.staticflickr.com/65535/55026807978_c4c402f05b_b.jpg)](https://www.flickr.com/photos/69096949@N08/55026807978/)
+[![通天閣](https://live.staticflickr.com/65535/55289785899_1285037618_b.jpg)](https://www.flickr.com/photos/69096949@N08/55289785899/)
 
-**[Possums](https://www.flickr.com/photos/69096949@N08/55026807978/)**
+**[通天閣](https://www.flickr.com/photos/69096949@N08/55289785899/)**
 
-> Ringtail possum with her baby in my backyard
+> 大阪のシンボルタワー
 
 
 ---
