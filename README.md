@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![通天閣](https://live.staticflickr.com/65535/55289785899_1285037618_b.jpg)](https://www.flickr.com/photos/69096949@N08/55289785899/)
+[![Street Food Stall](https://live.staticflickr.com/65535/55026801413_54bf249eca_b.jpg)](https://www.flickr.com/photos/69096949@N08/55026801413/)
 
-**[通天閣](https://www.flickr.com/photos/69096949@N08/55289785899/)**
+**[Street Food Stall](https://www.flickr.com/photos/69096949@N08/55026801413/)**
 
-> 大阪のシンボルタワー
+> Vibrant street food stall located in Zhongshan Road in Xiamen, China
 
 
 ---
