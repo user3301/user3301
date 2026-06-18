@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Gaming Controllers](https://live.staticflickr.com/65535/54944625512_844a039179_b.jpg)](https://www.flickr.com/photos/69096949@N08/54944625512/)
+[![Sanzen-in](https://live.staticflickr.com/65535/55342566891_70c02a3ef6_b.jpg)](https://www.flickr.com/photos/69096949@N08/55342566891)
 
-**[Gaming Controllers](https://www.flickr.com/photos/69096949@N08/54944625512/)**
+**[Sanzen-in](https://www.flickr.com/photos/69096949@N08/55342566891)**
 
-> Beautiful gaming controllers at PAX show 2024
+> Ōhara, Kyoto, Japan
 
 
 ---
