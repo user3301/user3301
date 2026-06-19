@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Sanzen-in](https://live.staticflickr.com/65535/55342566891_70c02a3ef6_b.jpg)](https://www.flickr.com/photos/69096949@N08/55342566891)
+[![Tanah Lot](https://live.staticflickr.com/65535/54985377441_ee05be2f36_b.jpg)](https://www.flickr.com/photos/69096949@N08/54985377441/)
 
-**[Sanzen-in](https://www.flickr.com/photos/69096949@N08/55342566891)**
+**[Tanah Lot](https://www.flickr.com/photos/69096949@N08/54985377441/)**
 
-> Ōhara, Kyoto, Japan
+> Traditional Balinese temple located on a small rocky island
 
 
 ---
