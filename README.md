@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![花見小路通](https://live.staticflickr.com/65535/55289788904_9cff345785_b.jpg)](https://www.flickr.com/photos/69096949@N08/55289788904/)
+[![Banten](https://live.staticflickr.com/65535/54959443684_04104845a6_b.jpg)](https://www.flickr.com/photos/69096949@N08/54959443684/)
 
-**[花見小路通](https://www.flickr.com/photos/69096949@N08/55289788904/)**
+**[Banten](https://www.flickr.com/photos/69096949@N08/54959443684/)**
 
-> 京都市の南北の通りの一つ
+> Balinese offerings on a rock at Goa Gajah, Bali
 
 
 ---
