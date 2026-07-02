@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Candi bentar](https://live.staticflickr.com/65535/54966316259_2bf479101a_b.jpg)](https://www.flickr.com/photos/69096949@N08/54966316259/)
+[![Gaming Controllers](https://live.staticflickr.com/65535/54944625512_844a039179_b.jpg)](https://www.flickr.com/photos/69096949@N08/54944625512/)
 
-**[Candi bentar](https://www.flickr.com/photos/69096949@N08/54966316259/)**
+**[Gaming Controllers](https://www.flickr.com/photos/69096949@N08/54944625512/)**
 
-> Candi benta - spilt gateway of Kuta beach entrance at Bali
+> Beautiful gaming controllers at PAX show 2024
 
 
 ---
