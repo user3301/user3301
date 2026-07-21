@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![The Coffee Apartment](https://live.staticflickr.com/65535/54966257118_68bfd560c2_b.jpg)](https://www.flickr.com/photos/69096949@N08/54966257118/)
+[![Sanzen-in](https://live.staticflickr.com/65535/55342566891_70c02a3ef6_b.jpg)](https://www.flickr.com/photos/69096949@N08/55342566891/)
 
-**[The Coffee Apartment](https://www.flickr.com/photos/69096949@N08/54966257118/)**
+**[Sanzen-in](https://www.flickr.com/photos/69096949@N08/55342566891/)**
 
-> The coffee apartment in Ho Chi Minh City, Vietnam
+> Ōhara, Kyoto, Japan
 
 
 ---
