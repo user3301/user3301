@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Mount Fuji](https://live.staticflickr.com/65535/55287918973_40ed671aac_b.jpg)](https://www.flickr.com/photos/69096949@N08/55287918973/)
+[![通天閣](https://live.staticflickr.com/65535/55289785899_1285037618_b.jpg)](https://www.flickr.com/photos/69096949@N08/55289785899/)
 
-**[Mount Fuji](https://www.flickr.com/photos/69096949@N08/55287918973/)**
+**[通天閣](https://www.flickr.com/photos/69096949@N08/55289785899/)**
 
-> Lake Kawaguchi Mount Fuji viewpoint
+> 大阪のシンボルタワー
 
 
 ---
