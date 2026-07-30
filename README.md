@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Circular Quay](https://live.staticflickr.com/65535/55390670284_b7a8618875_b.jpg)](https://www.flickr.com/photos/69096949@N08/55390670284/)
+[![Wat Chedi Luang](https://live.staticflickr.com/65535/54947609626_333f3297c2_b.jpg)](https://www.flickr.com/photos/69096949@N08/54947609626/)
 
-**[Circular Quay](https://www.flickr.com/photos/69096949@N08/55390670284/)**
+**[Wat Chedi Luang](https://www.flickr.com/photos/69096949@N08/54947609626/)**
 
-> Sydney, Australia
+> Buddhist Temple in Chiang Mai, Thailand
 
 
 ---
