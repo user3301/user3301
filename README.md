@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Geelong](https://live.staticflickr.com/65535/55390624968_7732140f71_b.jpg)](https://www.flickr.com/photos/69096949@N08/55390624968/)
+[![Sir Veeramakaliamman Temple](https://live.staticflickr.com/65535/54974464712_d900447190_b.jpg)](https://www.flickr.com/photos/69096949@N08/54974464712/)
 
-**[Geelong](https://www.flickr.com/photos/69096949@N08/55390624968/)**
+**[Sir Veeramakaliamman Temple](https://www.flickr.com/photos/69096949@N08/54974464712/)**
 
-> Victoria, Australia
+> Hindu temple at little India Singapore
 
 
 ---
