@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![通天閣](https://live.staticflickr.com/65535/55289785899_1285037618_b.jpg)](https://www.flickr.com/photos/69096949@N08/55289785899/)
+[![Sir Veeramakaliamman Temple](https://live.staticflickr.com/65535/54974464712_d900447190_b.jpg)](https://www.flickr.com/photos/69096949@N08/54974464712/)
 
-**[通天閣](https://www.flickr.com/photos/69096949@N08/55289785899/)**
+**[Sir Veeramakaliamman Temple](https://www.flickr.com/photos/69096949@N08/54974464712/)**
 
-> 大阪のシンボルタワー
+> Hindu temple at little India Singapore
 
 
 ---
