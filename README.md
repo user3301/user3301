@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Banten](https://live.staticflickr.com/65535/54959443684_04104845a6_b.jpg)](https://www.flickr.com/photos/69096949@N08/54959443684/)
+[![Taipei 101](https://live.staticflickr.com/65535/54962464345_f7d152e539_b.jpg)](https://www.flickr.com/photos/69096949@N08/54962464345/)
 
-**[Banten](https://www.flickr.com/photos/69096949@N08/54959443684/)**
+**[Taipei 101](https://www.flickr.com/photos/69096949@N08/54962464345/)**
 
-> Balinese offerings on a rock at Goa Gajah, Bali
+> The tallest building in Taipei
 
 
 ---
