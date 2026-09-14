@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Mount Fuji](https://live.staticflickr.com/65535/55287918973_40ed671aac_b.jpg)](https://www.flickr.com/photos/69096949@N08/55287918973/)
+[![วัดปากน้ำภาษีเจริญ](https://live.staticflickr.com/65535/54991843895_124ae0bf1b_b.jpg)](https://www.flickr.com/photos/69096949@N08/54991843895/)
 
-**[Mount Fuji](https://www.flickr.com/photos/69096949@N08/55287918973/)**
+**[วัดปากน้ำภาษีเจริญ](https://www.flickr.com/photos/69096949@N08/54991843895/)**
 
-> Lake Kawaguchi Mount Fuji viewpoint
+> Wat Paknam Bhasicharoen in Bangkok
 
 
 ---
