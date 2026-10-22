@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Taipei 101](https://live.staticflickr.com/65535/54962464345_f7d152e539_b.jpg)](https://www.flickr.com/photos/69096949@N08/54962464345/)
+[![Street Food Stall](https://live.staticflickr.com/65535/55026801413_54bf249eca_b.jpg)](https://www.flickr.com/photos/69096949@N08/55026801413/)
 
-**[Taipei 101](https://www.flickr.com/photos/69096949@N08/54962464345/)**
+**[Street Food Stall](https://www.flickr.com/photos/69096949@N08/55026801413/)**
 
-> The tallest building in Taipei
+> Vibrant street food stall located in Zhongshan Road in Xiamen, China
 
 
 ---
