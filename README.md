@@ -4,11 +4,11 @@
 
 ![Powered by GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
-[![Wat Chedi Luang](https://live.staticflickr.com/65535/54947609626_333f3297c2_b.jpg)](https://www.flickr.com/photos/69096949@N08/54947609626/)
+[![Sanzen-in](https://live.staticflickr.com/65535/55342566891_70c02a3ef6_b.jpg)](https://www.flickr.com/photos/69096949@N08/55342566891/)
 
-**[Wat Chedi Luang](https://www.flickr.com/photos/69096949@N08/54947609626/)**
+**[Sanzen-in](https://www.flickr.com/photos/69096949@N08/55342566891/)**
 
-> Buddhist Temple in Chiang Mai, Thailand
+> Ōhara, Kyoto, Japan
 
 
 ---
